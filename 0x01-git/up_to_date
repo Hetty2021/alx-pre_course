@@ -1,1 +1,3 @@
-touch 0x01-git/up_to_date
+HoHow to be up to date in git
+git pull
+touch up_to_date
